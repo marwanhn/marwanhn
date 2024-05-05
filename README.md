@@ -1,9 +1,9 @@
 ## <h1 align="center">Hi 👋, I'm [Marwan!](https://github.com/marwanhn/)</h1>
 <h3 align="center">Endlessly Pursuing Knowledge</h3>
 
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/Marwanium_10)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/marwan-hasbun-nur)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/marwanhnr/)
+[![Email](https://img.shields.io/badge/gmail-%23D14836.svg?style=flat-square&logo=Gmail&logoColor=white)](mailto:marwanhasbunur@gmail.com)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/marwan-hasbun-nur)
+[![Instagram](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/marwanhnr/)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=marwanhn&label=Profile%20views&color=0e75b6&style=flat" alt="marwanhn" /> </p>
 
